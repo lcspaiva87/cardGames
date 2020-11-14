@@ -6,6 +6,7 @@ import Header from './componets/Header.js';
 import Home from './componets/Home.js';
 import Slide from './componets/Slide'
 import Form from './componets/Form';
+import  Footer from './componets/Footer.js';
 function App() {
     return ( 
         <Page>
@@ -13,6 +14,7 @@ function App() {
             <Home></Home>
             <Slide></Slide>
             <Form></Form>
+            <Footer></Footer>
         </Page>
         
     );

@@ -26,7 +26,7 @@ font-size: 22px;
 
 const Header=()=>{
     return(
-        <Container>
+        <Container id="header">
             <img src={Foguete}/>
             <Title>
                 SuperGiantGames
